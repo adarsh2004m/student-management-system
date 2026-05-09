@@ -26,4 +26,4 @@ for bca project
 A web-based student attendance and management system built using PHP, MySQL, HTML, CSS and JavaScript.
 
 ### Live Website
-https://studenttracker.fwh.is
+studenttracker.fwh.is/attendance
